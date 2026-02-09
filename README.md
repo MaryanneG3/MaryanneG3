@@ -1,9 +1,9 @@
 # 👋 Welcome to Maryanne Galo's GitHub Profile! :)
 
 ### 🌟 About Me
-I'm a versatile **Full-Stack Developer** with a strong foundation in customer service and a growing portfolio of user-driven web applications. I enjoy working on frontend experiences and using **AI** to enhance engagement and usability. I also have experience working with tools like **Docker**, **Azure**, and **Next.js** to build and deploy scalable solutions.
+I'm a versatile **Full-Stack Developer** with a foundation in customer service and a growing portfolio of user-driven web applications. I enjoy working on frontend experiences and using **AI** to enhance engagement and usability.
 
-- 📍 **Location**: Otahuhu, Auckland, New Zealand  
+- 📍 **Location**: Otara, Auckland, New Zealand  
 - 📧 **Email**: maryanne_galo@outlook.com  
 - 📱 **Phone**: +64 027 378 5934  
 - 🌐 **Portfolio**: [maryanne-galo.vercel.app](https://maryanne-galo.vercel.app)  
@@ -25,7 +25,7 @@ I'm a versatile **Full-Stack Developer** with a strong foundation in customer se
 
 #### **DevOps & Hosting**
 - Containerization with **Docker**  
-- Deployment using **Microsoft Azure**
+- Cloud services with **Microsoft Azure** and **AWS**
 
 #### **AI Integration**
 - **Google Gemini AI** for chatbots and automation  
@@ -33,7 +33,7 @@ I'm a versatile **Full-Stack Developer** with a strong foundation in customer se
 
 #### **Tools & Practices**
 - Version control with **Git/GitHub**  
-- Project tracking using **Jira**  
+- Project tracking using **Jira** and **Confluence**   
 - Testing and debugging  
 - Low-fidelity wireframing and rapid prototyping
 
@@ -45,6 +45,7 @@ I'm a versatile **Full-Stack Developer** with a strong foundation in customer se
 - Created a chatbot using **Google Gemini AI** to recommend personalized insurance policies.  
 - Built with **React**, **Node.js**, and **Express**, deployed on **Azure**.  
 - [🔗 GitHub Repository](https://github.com/MaryanneG3/turners_insurance_recommendation_application)
+- [🔗 Live URL](https://turners-insurance-recommendation.vercel.app/tools/insurance-recommendation-ai)
 
 #### **Online Learning Platform**
 - Developed features like Student Profiles and Progress Tracker.  
@@ -81,9 +82,6 @@ I'm a versatile **Full-Stack Developer** with a strong foundation in customer se
   *National University of Samoa — Aug 2021 to May 2024*  
   Major in Mathematics | Minor in Computer Science
 
-- 🏗 **Bachelor of Mechanical Engineering (Incomplete)**  
-  *Mongolian University of Science and Technology — Aug 2020 to May 2021*
-
 - 🈴 **Certificate in Mongolian Language Proficiency**  
   *Friends Surguul, Mongolia — 2019*
 
@@ -95,7 +93,7 @@ I'm a versatile **Full-Stack Developer** with a strong foundation in customer se
 ### 🌱 Interests
 - 🧮 **Mathematics** – including advanced calculus, algebra, and statistics  
 - 🤖 **Generative AI** – building smarter web tools with AI integration  
-- 🏃‍♀️ **Fitness** – especially running and jump rope to stay energized
+- 🏃‍♀️ **Fitness** – especially running and Muay Thai to stay energized and fit
 
 ---
 
